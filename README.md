@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple project using Ruby to create an web app that would allow me to store or submit useful links that relate to coding.
 
-Things you may want to cover:
+Used the following:
 
-* Ruby version
+* Devise - Flexible authentication solution for Rails with Warden
 
-* System dependencies
+* Bootstrap Sass - is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.
 
-* Configuration
+* acts_as_votable - Rails gem to allowing records to be votable
 
-* Database creation
+* record_tag_helper - ActionView Record Tag Helpers
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* simple_form - Forms made easy!
